@@ -1,0 +1,12 @@
+2 2  1 1 0 0 1
+|  |   |   |  |  |  |
+Here First number is for no states DFA
+Second number is for no inputs sybmbols
+Third for No of final states
+and remaining four numbers are for final states defination like 
+q0-> q1
+q0-> q0
+q0-> q0
+q0-> q1
+
+and symbols are a, b they are initialized within code. 
